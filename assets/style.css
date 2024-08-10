@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+    
+    
+}
+.parrat{
+    padding-top: 71px;
+    min-height: 100vh;
+    background-image: url(./image/header_6.png);
+    background-size: cover;
+    
+}
+.link{
+    color:white;
+
+}
+.nav-link{
+    display: flex;
+    justify-content: space-around;
+   
+}
+ul{
+    display: flex ;
+    gap: 100px;
+    justify-content: center;
+}
+.main{
+    max-width: 830px;
+    font-size: 56px;
+    color: white;
+    line-height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 66px;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    padding-top: 103px;
+}
+.para{
+    font-size: 18px;
+    line-height: 28px;
+    color: white;
+    text-align: center;
+    max-width: 513px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 55px;
+    padding-bottom: 121px;
+}
+.sign-btn{
+    padding: 8px 18px 8px 18px;
+    border-radius: 30px;
+    background-color: aqua;
+}
